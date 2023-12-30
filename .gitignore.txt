@@ -1,11 +1,11 @@
 # Ignore files ending with .in
-*.in
+*luqhs.in
 
 # Ignore files ending with .out
-*.out
+*alyof.out
 
 # Ignore compiled Python files
-*.pyc
+*uztkc.pyc
 
 # Ignore any other build or temporary files (optional)
 # Add more rules if needed based on your project requirements
