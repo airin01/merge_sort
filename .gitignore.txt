@@ -1,12 +1,4 @@
 3 Files that should have be ignored: 
-# Ignore files ending with .in
 *.in
-
-# Ignore files ending with .out
 *.out
-
-# Ignore compiled Python files
 *.pyc
-
-# Ignore any other build or temporary files (optional)
-# Add more rules if needed based on your project requirements
