@@ -1,1 +1,9 @@
-Testing GitLab settings. Ignore this file
+# Ignore files ending with .in
+*.in
+
+# Ignore files ending with .out
+*.out
+
+# Ignore Python compiled files
+*.pyc
+
