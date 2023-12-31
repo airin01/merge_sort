@@ -1,4 +1,5 @@
-3 Files that should have be ignored: 
- .in
- .out
- .pyc
+3 Files that should have be ignored:
+ *.pyc 
+ *.in
+ *.out
+
