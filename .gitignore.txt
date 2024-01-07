@@ -1,9 +1,8 @@
-# Ignore files ending with .in
+# Ignore files ending with
 *.in
 
-# Ignore files ending with .out
+# Ignore files ending with
 *.out
 
 # Ignore Python compiled files
 *.pyc
-
