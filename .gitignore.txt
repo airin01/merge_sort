@@ -1,4 +1,4 @@
-# Ignore specific files
-uhhvp.pyc
-*.in
-*.out
+3 Files that should have be ignored: 
+ *.pyc
+ *.out
+ *.in
