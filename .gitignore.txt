@@ -1,8 +1,4 @@
-# Ignore files ending with
+# Ignore specific files
+uhhvp.pyc
 *.in
-
-# Ignore files ending with
 *.out
-
-# Ignore Python compiled files
-*.pyc
